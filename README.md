@@ -1,7 +1,7 @@
-Intel i3-6100
-ASUS H110M-K 
-RAM DDR4 8GB
-CMC 22inch VGA Port 
+Intel i3-6100  
+ASUS H110M-K   
+RAM DDR4 8GB  
+CMC 22inch VGA Port   
 Ethernet RTL8168/8111/8112
 128GB SSD
 Intel HD530  need patch 
