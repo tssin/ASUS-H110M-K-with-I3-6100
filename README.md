@@ -13,8 +13,8 @@ VT-d: Disabled
 Fast Boot: Disable  
 OS Type: other  
 Platform Power Management:Disabled
-XHCI Hand-Off: Enabled
-Network Stack: Disabled
-Wake on LAN: Disabled
-Secure Boot: Disabled
+XHCI Hand-Off: Enabled  
+Network Stack: Disabled  
+Wake on LAN: Disabled  
+Secure Boot: Disabled  
 DVMT Pre-Allocated: 256M
